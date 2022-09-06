@@ -80,13 +80,9 @@ html{
     letter-spacing: 5px;
 }
 #inicio .contenido .presentacion h2{
-    font-size: 45px;
+    font-size: 40px;
     margin-bottom: 25px;
     text-align: center;
-    color: #00c4fa;
-}
-#inicio .contenido .presentacion h2 span{
-    font-size: 35px;
     color: #00c4fa;
 }
 #inicio .contenido .presentacion .descripcion{
@@ -94,6 +90,7 @@ html{
     margin: 25px auto;
     font-size: 18px;
     text-align: center;
+    transition: .5s;
 }
 #inicio .contenido .presentacion a{
     text-decoration: none;
